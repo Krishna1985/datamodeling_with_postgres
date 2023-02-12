@@ -4,6 +4,7 @@ import numpy as np
 import psycopg2
 import pandas as pd
 import sql_query
+import sklearn as sk
 
 
 # def get_files(filepath):
